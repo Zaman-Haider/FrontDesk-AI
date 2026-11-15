@@ -1,6 +1,6 @@
-# FrontDesk AI
+# Deskly AI
 
-Product website for **FrontDesk AI** — an AI call & message receptionist for local businesses: dental practices, home services (HVAC, plumbing, electrical), restaurants, and more. It answers phone calls and messages 24/7, books appointments straight into the business calendar, and sends the owner a summary of every conversation.
+Product website for **Deskly AI** — an AI call & message receptionist for local businesses: dental practices, home services (HVAC, plumbing, electrical), restaurants, and more. It answers phone calls and messages 24/7, books appointments straight into the business calendar, and sends the owner a summary of every conversation.
 
 ## What is on the page
 
